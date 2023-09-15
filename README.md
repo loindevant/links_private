@@ -1,5 +1,7 @@
 # links_private
 
+Adresse publique de base: https://loindevant.github.io/
+
 [home](https://loindevant.github.io/)
 
 [canevas](https://loindevant.github.io/canevas)
