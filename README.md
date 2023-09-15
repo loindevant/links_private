@@ -1,7 +1,7 @@
 # links_private
 
-[home](https://loindevant.github.io/)
+(https://loindevant.github.io/)
 
-[semaine](https://loindevant.github.io/semaine)
+(https://loindevant.github.io/canevas)
 
-[links_private](https://loindevant.github.io/links_private)
+(https://loindevant.github.io/links_private)
