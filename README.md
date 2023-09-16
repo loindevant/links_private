@@ -13,6 +13,4 @@ Pour dossier parent: [xxx](../xxx/xxx.png)
 
 [links_private](https://loindevant.github.io/links_private)
 
-[article](../canevas/article.png)
-
-
+[testing](https://loindevant.github.io/testing)
