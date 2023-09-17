@@ -6,7 +6,7 @@ URL publique de base:
 https://loindevant.github.io/[nom_du_dépôt]/[chemin_vers_le_fichier_dans_le_dépôt]
 ```
 
-URL qui marche pour github mais pas de manière universelle:
+URL qui marche localement sur github:
 
 ```
 Pour même dossier: [xxx](./xxx.png)
