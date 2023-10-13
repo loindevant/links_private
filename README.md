@@ -23,4 +23,4 @@ Pour dossier parent: [xxx](../xxx/xxx.png)
 
 [Gratin de patates](https://loindevant.github.io/links_private/gratin_patates.pdf)
 
-[Leçon de math](https://loindevant.github.io/links_private/3-502_Didac_math.md)
+[Marche](https://loindevant.github.io/links_private/marche.md)
