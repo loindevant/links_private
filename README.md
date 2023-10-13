@@ -21,6 +21,3 @@ Pour dossier parent: [xxx](../xxx/xxx.png)
 
 [manuel_du_marmouset](https://loindevant.github.io/manuel_du_marmouset)
 
-[Gratin de patates](https://loindevant.github.io/links_private/gratin_patates.pdf)
-
-[Lundi](https://loindevant.github.io/links_private/lundi)
