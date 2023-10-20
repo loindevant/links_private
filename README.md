@@ -13,8 +13,8 @@ Pour même dossier: [xxx](./xxx.png)
 Pour dossier parent: [xxx](../xxx/xxx.png)
 ```
 
-[Home](https://loindevant.github.io/)
+https://loindevant.github.io/
 
-[Links private](https://loindevant.github.io/links_private)
+https://loindevant.github.io/links_private
 
-[Stage P3](https://loindevant.github.io/Stage_P3)
+https://loindevant.github.io/Stage_P3
