@@ -1,6 +1,6 @@
 # links_private
 
-URL publique de base:
+URL publique de base ET AUTRES:
 
 ```
 https://loindevant.github.io/[nom_du_dépôt]/[chemin_vers_le_fichier_dans_le_dépôt]
