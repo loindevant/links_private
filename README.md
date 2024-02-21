@@ -20,4 +20,5 @@ Pour dossier parent: [xxx](../xxx/xxx.png)
 	- [https://loindevant.github.io/info/lipsum](https://loindevant.github.io/info/lipsum)
 	- [https://loindevant.github.io/info/mica](https://loindevant.github.io/info/mica)
 	- [https://loindevant.github.io/info/tableaux](https://loindevant.github.io/info/tableaux)
-	- [https://loindevant.github.io/info/3-501_Didac_sciences](https://loindevant.github.io/info/3-501_Didac_sciences)
+	- [https://loindevant.github.io/info/2023-11-14_acm3](https://loindevant.github.io/info/2023-11-14_acm3)
+
