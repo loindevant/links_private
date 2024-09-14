@@ -14,8 +14,8 @@ Pour dossier parent: [xxx](../xxx/xxx.png)
 ```
 
 - [https://loindevant.github.io](https://loindevant.github.io)
+- [https://loindevant.github.io/cours_5-401](https://loindevant.github.io/cours_5-401)
 - [https://loindevant.github.io/links_private](https://loindevant.github.io/links_private)
-- [https://loindevant.github.io/Stage_P3](https://loindevant.github.io/Stage_P3)
 - [https://loindevant.github.io/info](https://loindevant.github.io/info)
 	- [https://loindevant.github.io/info/mica](https://loindevant.github.io/info/mica)
 	- [https://loindevant.github.io/info/tableaux](https://loindevant.github.io/info/tableaux)
